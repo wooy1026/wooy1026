@@ -3,13 +3,9 @@
 I am a mechanical engineer🛠️ based in South Korea who is interested in software development💻.
 ## 💕I love...
 - software 💻 </br>
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 - autonomous driving 🚗 </br>
-<img src="https://img.shields.io/badge/ros-%2322314E.svg?&style=for-the-badge&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/raspberry%20pi-%23C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" />
+<img src="https://img.shields.io/badge/ros-%2322314E.svg?&style=for-the-badge&logo=ros&logoColor=white" /><img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" /><img src="https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white" /><img src="https://img.shields.io/badge/raspberry%20pi-%23C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" />
 
 - 3D modeling 📦 </br>
 <img src="https://img.shields.io/badge/Catia%20V5/v6-%23005386.svg?&style=for-the-badge&logo=dassault%20systemes&logoColor=white" />
